@@ -1,5 +1,5 @@
 # quick-levenshtein
-this library implement the edit distance algorithm ([levenshtein original operation] http://en.wikipedia.org/wiki/Levenshtein_distance) to predict the correct spelling
+this library implement the edit distance algorithm [levenshtein original operation] http://en.wikipedia.org/wiki/Levenshtein_distance to predict the correct spelling
 
 
 ## Installation
