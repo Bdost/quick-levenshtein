@@ -1,0 +1,22 @@
+{
+  "name": "quick-levenshtein",
+  "version": "1.0.0",
+  "description":
+    "this library implements the edit distance algorithm (levenshtein original operation) to predict the correct spelling",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bdost/quick-levenshtein.git"
+  },
+  "keywords": ["levenshtein", "distance", "string", "nlp", "spelling", "spell"],
+  "author":
+    "abdulrahman davutoglu <abdulrahman.davutoglu@gmail.com> (https://github.com/abud4646) ",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
