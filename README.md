@@ -19,7 +19,7 @@ $ npm install quick-levenshtein
 var levenshtein = require('quick-levenshtein');
 
 var distance = levenshtein.calculateEditDistance('kitten', 'sitting');   // 3
-var distance = levenshtein.get('sitting', 'sitting');   // 0
+distance = levenshtein.get('sitting', 'sitting');   // 0
 ```
 
 
